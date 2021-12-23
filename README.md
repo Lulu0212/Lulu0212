@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Lulu0212/Lulu0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a data analysis company.
+- 🌱 I’m currently learning phython.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 984020942@qq.com.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
